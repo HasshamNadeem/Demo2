@@ -1,3 +1,2 @@
 # Demo 2
-
-Some text 
+Some more text has been added
